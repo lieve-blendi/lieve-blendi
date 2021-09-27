@@ -8,6 +8,9 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### Frameworks i use:
+[![LOVE](https://img.shields.io/badge/L%C3%96VE-0.10.1-EA316E.svg)](http://love2d.org/)
+
 <!--
 **lieve-blendi/lieve-blendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
