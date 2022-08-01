@@ -1,12 +1,10 @@
 ### Hi there im Blendi 👋
 
-#### Programming Languages i know:
+#### Programming Languages I know:
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Programming Languages im learning:
-![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **lieve-blendi/lieve-blendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
