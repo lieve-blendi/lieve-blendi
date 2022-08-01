@@ -1,4 +1,4 @@
-### Hi there im Blendi 👋
+### Hi there I'm Blendi 👋
 
 #### Programming Languages I know:
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
