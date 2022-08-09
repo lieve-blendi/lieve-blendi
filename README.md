@@ -9,7 +9,7 @@
 ### My favourite text editor is:
 ![vscode](https://camo.githubusercontent.com/08137438d7b2ef11316846435bd7dc16651a171724649d0f6c5ad1b18164479c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d7768697465)
 
-### Frameworks I used:
+### Frameworks I use:
 ![flutter](https://img.shields.io/badge/-FLUTTER-informational?style=for-the-badge&logo=flutter)
 ![LÖVE](https://img.shields.io/badge/-LÖVE-ff69b4?style=for-the-badge)
 
